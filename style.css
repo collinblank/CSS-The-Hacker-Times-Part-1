@@ -32,6 +32,10 @@ h1 {
   text-align: center;
 }
 
+.date {
+  color: #777;
+}
+
 a {
   text-decoration: none;
   color: #777;
