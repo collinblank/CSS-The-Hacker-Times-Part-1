@@ -46,7 +46,7 @@ nav {
   border-bottom: 1px solid black;
   text-align: center;
   position: sticky;
-  top: 1em;
+  top: 0em;
   background-color: white;
 }
 
